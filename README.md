@@ -11,7 +11,7 @@ My vimrc:
 
 ```vim
 let g:vimwiki_list = [{'path': '$HOME/vimwiki',
-		  \ 'path_html': '/home/forbi/vimwiki/wiki_html/',
+		  \ 'path_html': '$HOME/vimwiki/wiki_html/',
 		  \ 'template_path': '$HOME/vimwiki/templates',
 		  \ 'template_default': 'def_template',
 		  \ 'auto_toc': 1,
