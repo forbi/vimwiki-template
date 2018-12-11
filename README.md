@@ -4,7 +4,7 @@ It uses:
 
 - [highlight.js](https://highlightjs.org/) for code syntax
 - [Math Ajax](https://www.mathjax.org/) for latex formulas
-- [bootstrap](https://getbootstrap.com/) Making thigs prettier
+- [bootstrap](https://getbootstrap.com/) Making things prettier
 - [jquery](https://jquery.com/)
 
 My vimrc:
